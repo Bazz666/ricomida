@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Cabin', sans-serif;
+
+  }
+
+
+.carousel-indicators {
+    top: 160px;
+  }
+  .carousel-indicators li.indicator {
+    margin-top: 50px;
+    width: 10px;
+    height: 10px;
+    background-color: #333a40;
+    border-radius: 50%;
+}
+
+hr {
+    margin-top: 7px;
+    margin-bottom: 15px;
+    height: 1pt;
+    background-color: #000000;
+  }
+  .linea {
+    width: 34%;
+    text-align: left;
+    margin: 0;
+  }
+
+  .lista {
+    
+    text-align: left;
+    list-style: none;
+    margin-left:0;
+    padding-left: 0;
+    border-left: 0;
+  }
+  h2 {
+    font-size: 50p;
+  }
